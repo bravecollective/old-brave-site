@@ -4,10 +4,12 @@
 	<style type="text/css">
 		body
 		{
-			background-image:url('images/splashtitle.png');
+			background-image:url("images/light-background.jpg");
 			background-repeat: no-repeat;
 			background-color: #cccccc;
-			background-position: center top;
+			background-position: center center fixed;
+			background-size:cover;
+			color:#FFFFFF;
 		}
 		.button-link {
 		    padding: 10px 15px;
@@ -28,6 +30,10 @@
 		    -moz-user-select:none;
 		    -ms-user-select:none;
 		    user-select:none;
+		    text-decoration: none;
+		    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		    margin-left:auto;
+		    margin-right:auto;
 		}
 		.button-link:hover {
 		    background: #356094;
@@ -41,21 +47,47 @@
 		    background: #2E5481;
 		    border: solid 1px #203E5F;
 		}
-		
-		.mainContent {
-			width: 1080px;
-			margin-top: 500px;
+		.centered {
 			margin-left: auto;
 			margin-right: auto;
+			display: block;
+		}
+		header {
+			position: relative;
+			display: inline-block;
+			text-align: center;
+			padding-left: 60px;
+			margin-bottom: 40px;
+			font-family: 'Open Sans', sans-serif;
+			text-shadow: 0 1px 4px rgba(0, 0, 0, 0.75);
+			font-size: 24px;
+			color: #eee;
+			-webkit-font-smoothing: antialiased;
+			height: auto;
+			line-height: 20px;
+			font-weight: 900;
+			text-rendering: optimizelegibility;
+			text-transform: uppercase;
+			margin-bottom: 40px;
+			width:800px;
 		}
 	</style>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 </head>
 <body>
-	<div class="mainContent">
-		<a href="guide.html" class="button-link">Brave, New, and Lost - The Brave Guide</a>
-		<a href="bravefaq.html" class="button-link">The Brave FAQ</a>
-		<a href="https://www.youtube.com/watch?v=S21-FS8b6uI" class="button-link">Brave History</a>
-		<a href="https://core.bravecollective.net/" class="button-link">The Brave Secure Area</a>
+	<div class="mainContent" style="margin-top:100px;">
+	<!--<div class="centered" style="text-align:center;"><h1><span style="font-weight:bold;">BRAVE</span> COLLECTIVE<br />NEXUS</h1></div>-->
+	<!-- I don't know what you did to get your font to look the way it does on core services, but I give up. -->
+		<header class="centered">
+	                <h1>Brave<span style="font-weight:normal;"> Collective</span></h1>
+	                <h2 style="font-weight:lighter;">Nexus</h2>
+	    </header>
+		<div class="centered" style="width:850px;">
+			<a href="guide.html" class="button-link">Brave, New, and Lost - The Brave Guide</a>
+			<a href="bravefaq.html" class="button-link">The Brave FAQ</a>
+			<a href="https://www.youtube.com/watch?v=S21-FS8b6uI" class="button-link">Brave History</a>
+			<a href="https://core.bravecollective.net/" class="button-link">The Brave Secure Area</a>
+		</div>
 	</div>
 </body>
 </html>
