@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/light-background.jpg");
+    background-image: url("../images/light-background.jpg");
     background-repeat: no-repeat;
     background-color: #cccccc;
     background-position: center center;
@@ -48,4 +48,9 @@ body {
     margin-bottom: 5px;
     margin-top: 20px;
     font-size: 1.1em;
+}
+
+a.secure {
+    background: url('../images/lock.png') no-repeat;
+    padding-left: 20px;
 }
