@@ -13,7 +13,7 @@
  	* The Brave Guide (Serinus)
 
  Current External Content
-	* freight.bravecollective.net
+	* freight.braveineve.com
 	* github mumble wiki howto
 	* (core forums) Heinel Sidewind's Skill Plan
 	* (core forums) Dojo Skillbook Program
