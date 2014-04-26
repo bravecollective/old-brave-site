@@ -1,23 +1,31 @@
-- Splash/Home Page
- * The Brave Guide 
- 		Short, Required Reading. All the most important things for newbies with short explanations of what they are. Optionally links to further information.  Intended to be read step by step in full. 
- * Brave FAQ
- 		Bullet point list of content with no explanations.  If you know what you're looking for, you probably want to look here for it.  This could probably be turned into the wiki.
- * News and/or Propaganda
- * Forums
+A complete overhaul of the site to better disseminate information. 
 
- Current Internal Content Pages
- 	* Unfuck Your Overview
- 	* Newbie's First Fleet (Morten Mortenson, soon)
- 	* Basic Core Skills (Creesch, not opsec)
- 	* The Brave Guide (Serinus)
+A summary of this site:
+—————————————————————
+Home Page (Site Portal)
+-Link to Core site
+ • Quote from the President & direct link to Joining BNI
+ • General Attitude of BNI with link to a page with Matias’s blurb on Staying Classy
+ • Link to Tutorials 
+ • Information on BNI and link to Corporation Structure/Roster
+General Attitude Page
+ • Copypaste from Matias’s Reddit Post (http://redd.it/1c2vw4)
+Tutorials Page (Portal)
+ • Links to all tutorials available. Tutorial pages stored in tutorials subdirectory.
+Tutorials Content Page
+ • Embed of imgur album tutorial with Header/Footer of site.
+Corporation Structure 
+ • List of Important Figures in BNI
+ • Outline of BNI/BRAVE/HERO
 
- Current External Content
-	* freight.braveineve.com
-	* github mumble wiki howto
-	* (core forums) Heinel Sidewind's Skill Plan
-	* (core forums) Dojo Skillbook Program
-	* BNI Structure
-	* Cagali's Newbie guide parts I-IV and the Brave Subreddit
-	* Lots of how-to gifs on imgur.  (These could be switched to local content.)
-	* Doctrines (hopefully soon!)
+
+Features in development:
+       • Forum (forum.braveineve.com) (Offline as of 4/25/2014)
+       • Fright (frieght.braveineve.com) (Offline as of 4/25/2014)
+       • Twitter (@BraveNewbies)
+       • Reddit (/Bravenewbies)
+       • Dotlan Influence Map
+       • Skillplans
+       • Dojo Free Skillbook Program
+       • Doctrines/Fleet-Up
+       • zKillboard.com (?)
