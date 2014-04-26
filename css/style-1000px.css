@@ -1,0 +1,33 @@
+/*
+	MegaCorp: A responsive HTML5 website template by HTML5Templates.com
+	Released for free under the Creative Commons Attribution 3.0 license (html5templates.com/license)
+	Visit http://html5templates.com for more great templates or follow us on Twitter @HTML5T
+*/
+
+
+/*********************************************************************************/
+/* Global                                                                        */
+/*********************************************************************************/
+
+body {
+	font-size: 9pt;
+}
+
+/* Banner */
+
+	#banner
+	{
+	}
+
+	#banner h2
+	{
+		font-size: 3.75em;
+	}
+
+	#banner p
+	{
+		font-size: 1.20em;
+	}
+	
+
+	
